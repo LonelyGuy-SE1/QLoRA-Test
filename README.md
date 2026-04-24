@@ -1,5 +1,6 @@
 # QLoRA Test
-6x baseline gains on spider sql.
+
+6x baseline gains on spider sql. trained for about 30 mins.
 
 Qwen/Qwen2.5-1.5B
 
